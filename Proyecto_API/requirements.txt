@@ -1,14 +1,7 @@
-# PruebaTecnica2
-Requisitos: Python 3.9.10, Django 4.0.6
-
-Framework: Django
-Base de datos: SQlite3
-
-Librerias Django:
-
 asgiref==3.5.2
 certifi==2022.6.15
 charset-normalizer==2.1.0
+Django==4.0.6
 django-cors-headers==3.13.0
 djangorestframework==3.13.1
 idna==3.3
